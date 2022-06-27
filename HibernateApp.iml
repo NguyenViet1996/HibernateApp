@@ -5,6 +5,7 @@
       <configuration>
         <setting name="validation-enabled" value="true" />
         <datasource-mapping>
+          <factory-entry name="HibernateApp" />
           <factory-entry name="org.hibernate.tutorial.jpa" value="d3012184-7660-4f00-9f71-c27155900e27" />
         </datasource-mapping>
         <naming-strategy-map />
